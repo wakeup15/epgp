@@ -42,4 +42,4 @@
 
 请各位提前熟悉各个boss技能。
 
-[安其拉攻略PPT](/raid/taq/TAQ攻略.pptx) 
+[安其拉攻略PPT](https://github.com/wakeup15/epgp/edit/master/raid/taq/TAQ攻略.pptx) 
