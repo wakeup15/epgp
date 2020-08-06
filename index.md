@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+## 欢迎来到WakeUp公会
 
-You can use the [editor on GitHub](https://github.com/wakeup15/epgp/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 公会目前需要的人才
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
++ 法师
++ 盗贼
++ 狂暴战
++ 牧师
++ 骑士
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 如何加入公会
 
-```markdown
-Syntax highlighted code block
+通过微信群名片扫码进入微信群
+![群名片](/images/291596683398_.pic.jpg)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### 团队活动
 
-1. Numbered
-2. List
+#### 安其拉神庙
 
-**Bold** and _Italic_ and `Code` text
+本周开始`安其拉神庙`开荒活动。
 
-[Link](url) and ![Image](src)
-```
+##### 活动形式
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+采取`EPGP`形式
 
-### Jekyll Themes
+##### 活动时间
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wakeup15/epgp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+`2020-08-08` `18:00`
 
-### Support or Contact
+##### 进本要求
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
++ 开荒期间全团准备2～3瓶`泰坦合剂`
++ 近站职业准备`药剂`、`大红` 、`烹饪食物`、`磨刀石`
++ 远程治疗职业准备`药剂`、`大蓝` 、`黑暗附文`、`烹饪食物`、`法力之油`以及`BUFF材料`
++ `BUFF材料`要备足，需要准备`黑翼之巢`消耗的三倍。
++ `术士职业`请提前吸满片
++ 各个职业务必`提前一天`准备好物资，到`副本门口集合`。
+
+##### 副本攻略
+
+请各位提前熟悉各个boss技能。
+
+[安其拉攻略PPT](/raid/taq/TAQ攻略.pptx) 
