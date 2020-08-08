@@ -62,4 +62,8 @@
 
 请各位提前熟悉各个boss技能。
 
+<<<<<<< HEAD
 [安其拉攻略PPT](https://gitee.com/wakeup_1/epgp/raw/master/raid/taq/taq.pptx) 
+=======
+[安其拉攻略PPT](https://gitee.com/wakeup_1/epgp/raw/master/raid/taq/TAQ%E6%94%BB%E7%95%A5.pptx) 
+>>>>>>> origin/master
